@@ -1,0 +1,16 @@
+[
+{
+  "modid": "redstonepcb",
+  "name": "Redstone PCB",
+  "description": "adds a simple way to control redstone connection",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["BordListian"],
+  "credits": "Forge, gyx",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

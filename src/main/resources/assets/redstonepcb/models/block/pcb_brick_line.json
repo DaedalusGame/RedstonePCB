@@ -1,0 +1,9 @@
+{
+    "parent": "block/cube_bottom_top",
+    "textures": {
+        "particle": "redstonepcb:blocks/pcb_side",
+        "bottom": "redstonepcb:blocks/pcb_top",
+        "top": "redstonepcb:blocks/pcb_top_3",
+        "side": "redstonepcb:blocks/pcb_side"
+    }
+}

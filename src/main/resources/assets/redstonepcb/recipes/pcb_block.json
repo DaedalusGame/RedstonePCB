@@ -1,0 +1,22 @@
+{
+  "result": {
+    "item": "redstonepcb:pcb_block",
+	"data": 0,
+	"count": 1
+  },
+  "type": "forge:ore_shapeless",
+  "ingredients": [
+	{
+	  "type": "forge:ore_dict",
+	  "ore": "stone"
+	},
+    {
+      "item": "minecraft:fermented_spider_eye",
+      "data": 0
+    },
+    {
+      "type": "forge:ore_dict",
+      "ore": "dyeLightGray"
+    }
+  ]
+}
